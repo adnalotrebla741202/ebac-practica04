@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    line-height: 2;
+    word-spacing: 3px;  
+}
+
+html
+{
+    font-size: 16px;
+}
+
+main
+{
+    font-size: 15px;
+}
+
+.slogan
+{
+    font-size: 1.15em;
+}
+
+.elaboracion
+{
+    font-size: 1.33rem;
+}
+
+.titulo
+{
+    color: rgb(255, 0, 12);
+    text-align: center;
+    text-shadow: 4px 2px 6px #ff000c;
+}
+
+.concepto 
+{
+    color: #0000FF;
+}
+
+.menus
+{
+    color: #000000;
+    padding-left: 50px;
+}
+
+.menus:hover
+{
+    background: #ccccdd;
+    color: hsl(323, 45%, 55%);
+}
+
+ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.redes
+{
+    text-align: center;
+}
+
+.centrado
+{
+    text-align: center;
+}
+
+.logo
+{
+    width: 150px;
+    display: inline-block;
+    padding: 4px 2px;
+    border: 2px solid #dddddd;  
+    margin: 20px 10px;
+}

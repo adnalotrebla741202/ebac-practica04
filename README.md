@@ -6,7 +6,7 @@ En este proyecto se aplican las propiedades CSS de color, texto y el modelo de c
   <li>En este proyecto se aplica el concepto de CSS externo.</li>
   <li>Se utilizan las propiedades CSS de color y se aplican valores con RGB y hexadecimales.</li>
   <li>Se utilizan las propiedades que conforman el box model.</li>
-  <li>Se Utilizan unidades relativas y absolutas.</li>
+  <li>Se utilizan unidades relativas y absolutas.</li>
   <li>Se aplica el concepto de clase.</li>
   <li>Se aplican las propiedades CSS <strong>box-sizing, text-decoration, font-family, letter-spacing, text-transform, line-height, word-spacing, font-size, color, text-align, text-shadow, padding-left, background, list-style-type, display, justify-content, width, padding, border, margin</strong>.</li>
 </ul>

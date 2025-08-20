@@ -107,33 +107,8 @@ En este proyecto se aplican las propiedades CSS de color, texto y el modelo de c
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1d7f02dd-b5f8-475f-a3de-c8c8185d84ff" />
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## <p align="center"><a href="https://github.com/adnalotrebla741202">REGRESAR</a></p>
 
 
